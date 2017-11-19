@@ -126,15 +126,15 @@ movie_tile_content = '''
 </div>
 '''
 
-"""
-function: create_movie_tiles_content(movies)
-description: converts info from movie class to html
-input: class Movie
-output: html
-"""
-
 
 def create_movie_tiles_content(movies):
+    """
+    function: create_movie_tiles_content(movies)
+    description: converts info from movie class to html
+    input: class Movie
+    output: html
+    """
+
     # The HTML content for this section of the page
     content = ''
     for movie in movies:
