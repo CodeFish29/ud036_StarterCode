@@ -2,7 +2,7 @@
 Source code for a Movie Trailer website. This website incluces several movie titles. Each movie title will have a box art and a link to the trailer.
 
 ## Generating the HTML
-To generate website run fresh_tomatoes.py
+To generate website run entertainment_center.py
 
 ## Adding a new movie
 1. Create an instance of the media.movie class in entertainment_center.py
